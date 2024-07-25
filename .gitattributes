@@ -1,3 +1,5 @@
 *.ipynb filter=lfs diff=lfs merge=lfs -text
 *.tflite filter=lfs diff=lfs merge=lfs -text
 *.h5 filter=lfs diff=lfs merge=lfs -text
+Validation_Data filter=lfs diff=lfs merge=lfs -text
+Training_and_Testing_Data filter=lfs diff=lfs merge=lfs -text
